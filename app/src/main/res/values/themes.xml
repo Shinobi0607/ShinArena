@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ShinArena" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+
+        <!-- Customize other attributes as needed -->
+        <!-- For example, you can set text color, text style, etc. -->
+    </style>
+
+    <style name="Theme.ShinArena" parent="Base.Theme.ShinArena" />
+
+    <style name="Theme.ShinArena.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.ShinArena.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.ShinArena.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
+

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "250342927001",
+    "firebase_url": "https://shinarena-84f79-default-rtdb.firebaseio.com",
+    "project_id": "shinarena-84f79",
+    "storage_bucket": "shinarena-84f79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250342927001:android:10cc90e3bec1eb8164e608",
+        "android_client_info": {
+          "package_name": "com.example.shinarena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250342927001-ai0t85e238j525tl5c2hnupj2rlif6eg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shinarena",
+            "certificate_hash": "c0b78edb486103148d72d0d9b976bb27124ce044"
+          }
+        },
+        {
+          "client_id": "250342927001-tgrmipertmud6hcf6l1fmh4g8qnjkc5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXqWmjg_mo9erSi6vXJthLGHov8FSLbR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250342927001-tgrmipertmud6hcf6l1fmh4g8qnjkc5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
